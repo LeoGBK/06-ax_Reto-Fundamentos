@@ -4,9 +4,11 @@
 }
 
 h1 {
-    text-align: center;
+  text-align: center;
+  font-size: 200%;
 }
 
 nav {
-    text-align: center;
+  text-align: center;
+  font-size: 60%;
 }
