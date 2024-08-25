@@ -17,3 +17,12 @@ nav {
   font-size: 60%;
   padding: 1% 0% 1% 0%;
 }
+
+h2 {
+  font-weight: bold;
+  padding: 3% 0% 3% 0%;
+}
+
+p {
+  padding: 3% 0% 3% 0%;
+}
