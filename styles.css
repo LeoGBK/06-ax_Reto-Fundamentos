@@ -1,7 +1,9 @@
+/* Aplicando fuente al texto en todo el <body> */
 body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
+/* Estilo aplicado para la cabecera del contenido */
 .cabecera {
   background-color: black;
   color: white;
@@ -14,23 +16,26 @@ h1 {
   padding: 3% 0% 3% 0%;
 }
 
+/* Alineación, medida y padding para el área de navegación */
 nav {
-  font-family: Arial, Helvetica, sans-serif;
   text-align: center;
   font-size: 60%;
   padding: 1% 0% 1% 0%;
 }
 
+/* Aplicación de padding para dar espacio entre las opciones de menú */
 span {
   padding: 0% 2% 0% 2%;
 }
 
+/* Estilo para la etiqueta <h2> */
 h2 {
   font-weight: bold;
   padding: 3% 0% 3% 0%;
   font-size: larger;
 }
 
+/* Estilo para el texto de las etiquetas <p> */
 p {
   padding: 3% 0% 3% 0%;
 }
