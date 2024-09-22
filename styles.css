@@ -19,7 +19,7 @@ h1 {
 /* Alineación, medida y padding para el área de navegación */
 nav {
   text-align: center;
-  font-size: 60%;
+  font-size: 80%;
   padding: 1% 0% 1% 0%;
 }
 
@@ -31,11 +31,11 @@ span {
 /* Estilo para la etiqueta <h2> */
 h2 {
   font-weight: bold;
-  padding: 3% 0% 3% 0%;
+  padding: 3% 0% 0% 0%;
   font-size: larger;
 }
 
 /* Estilo para el texto de las etiquetas <p> */
 p {
-  padding: 3% 0% 3% 0%;
+  padding: 3% 0% 0% 0%;
 }
